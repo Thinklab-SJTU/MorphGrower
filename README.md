@@ -2,6 +2,7 @@
 <p align="center">
     <a href="https://openreview.net/forum?id=ZTN866OsGx"><img alt="Publication" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2724&color=purple"></a>
     <a href="https://github.com/Thinklab-SJTU/MorphGrower/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-blue" alt="PRs"></a>
+    <a href="https://github.com/Thinklab-SJTU/MorphGrower/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Thinklab-SJTU/MorphGrower?color=green"></a>
     <a href="https://github.com/Thinklab-SJTU/MorphGrower/stargazers"><img src="https://img.shields.io/github/stars/Thinklab-SJTU/MorphGrower?color=red&label=Star" alt="Stars"></a>
 </p>
 
